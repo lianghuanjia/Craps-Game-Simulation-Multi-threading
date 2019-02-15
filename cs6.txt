@@ -1,0 +1,34 @@
+Craps simulation thread 1 starts at 2018-09-06 17:51:39.833
+Craps simulation thread 2 starts at 2018-09-06 17:51:39.912
+Craps simulation thread 3 starts at 2018-09-06 17:51:39.912
+Craps simulation thread 4 starts at 2018-09-06 17:51:39.912
+Craps simulation thread 5 starts at 2018-09-06 17:51:39.913
+
+
+Craps simulation thread 1 ends at 2018-09-06 17:51:39.914
+Craps simulation thread 2 ends at 2018-09-06 17:51:39.914
+Craps simulation thread 3 ends at 2018-09-06 17:51:39.916
+Craps simulation thread 4 ends at 2018-09-06 17:51:40.007
+Craps simulation thread 5 ends at 2018-09-06 17:51:39.922
+
+
+Total running game is: 986
+ ================ No.1 all-thread-simulation finishes ================ 
+
+Craps simulation thread 1 starts at 2018-09-06 17:51:50.043
+Craps simulation thread 2 starts at 2018-09-06 17:51:50.043
+Craps simulation thread 3 starts at 2018-09-06 17:51:50.044
+Craps simulation thread 4 starts at 2018-09-06 17:51:50.044
+Craps simulation thread 5 starts at 2018-09-06 17:51:50.044
+
+
+Craps simulation thread 1 ends at 2018-09-06 17:51:50.044
+Craps simulation thread 2 ends at 2018-09-06 17:51:50.044
+Craps simulation thread 3 ends at 2018-09-06 17:51:50.045
+Craps simulation thread 4 ends at 2018-09-06 17:51:50.054
+Craps simulation thread 5 ends at 2018-09-06 17:51:50.045
+
+
+Total running game is: 157
+ ================ No.2 all-thread-simulation finishes ================ 
+

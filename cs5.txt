@@ -1,0 +1,225 @@
+Welcome to SimCraps! Enter your user name: Sam
+Hello Sam!
+Enter the amount of money you will bring to the table: -2
+The money cannot be smaller or equal than 1. Type again: 100
+Enter the bet amount between $1 and $100.0: -2.0
+Invalid bet! Please enter a bet between $1 and $100.0: 900.0
+Invalid bet! Please enter a bet between $1 and $100.0: 70.0
+Sam bets $70.0 at 2018-09-06 17:51:39.913
+
+Rolled a 7 at 2018-09-06 17:51:39.913
+***** Natural! You win! *****
+
+Sam's balance: 170.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.913
+
+Rolled a 8 at 2018-09-06 17:51:39.913
+Rolled a 11 at 2018-09-06 17:51:39.913
+Rolled a 5 at 2018-09-06 17:51:39.913
+Rolled a 8 at 2018-09-06 17:51:39.913
+***** Roll the point! You win! ***** 
+
+Sam's balance: 240.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.913
+
+Rolled a 4 at 2018-09-06 17:51:39.913
+Rolled a 7 at 2018-09-06 17:51:39.914
+***** Crap out! You lose. *****
+
+Sam's balance: 170.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.914
+
+Rolled a 7 at 2018-09-06 17:51:39.914
+***** Natural! You win! *****
+
+Sam's balance: 240.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.914
+
+Rolled a 2 at 2018-09-06 17:51:39.914
+***** Craps! You lose. *****
+
+Sam's balance: 170.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.914
+
+Rolled a 7 at 2018-09-06 17:51:39.914
+***** Natural! You win! *****
+
+Sam's balance: 240.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.915
+
+Rolled a 8 at 2018-09-06 17:51:39.915
+Rolled a 10 at 2018-09-06 17:51:39.915
+Rolled a 4 at 2018-09-06 17:51:39.915
+Rolled a 8 at 2018-09-06 17:51:39.915
+***** Roll the point! You win! ***** 
+
+Sam's balance: 310.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.915
+
+Rolled a 5 at 2018-09-06 17:51:39.915
+Rolled a 9 at 2018-09-06 17:51:39.915
+Rolled a 6 at 2018-09-06 17:51:39.916
+Rolled a 5 at 2018-09-06 17:51:39.916
+***** Roll the point! You win! ***** 
+
+Sam's balance: 380.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.916
+
+Rolled a 10 at 2018-09-06 17:51:39.916
+Rolled a 6 at 2018-09-06 17:51:39.916
+Rolled a 8 at 2018-09-06 17:51:39.916
+Rolled a 2 at 2018-09-06 17:51:39.916
+Rolled a 12 at 2018-09-06 17:51:39.917
+Rolled a 6 at 2018-09-06 17:51:39.917
+Rolled a 8 at 2018-09-06 17:51:39.917
+Rolled a 3 at 2018-09-06 17:51:39.917
+Rolled a 9 at 2018-09-06 17:51:39.917
+Rolled a 7 at 2018-09-06 17:51:39.917
+***** Crap out! You lose. *****
+
+Sam's balance: 310.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.917
+
+Rolled a 4 at 2018-09-06 17:51:39.917
+Rolled a 9 at 2018-09-06 17:51:39.917
+Rolled a 6 at 2018-09-06 17:51:39.917
+Rolled a 7 at 2018-09-06 17:51:39.917
+***** Crap out! You lose. *****
+
+Sam's balance: 240.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.917
+
+Rolled a 5 at 2018-09-06 17:51:39.918
+Rolled a 8 at 2018-09-06 17:51:39.918
+Rolled a 9 at 2018-09-06 17:51:39.918
+Rolled a 4 at 2018-09-06 17:51:39.918
+Rolled a 6 at 2018-09-06 17:51:39.918
+Rolled a 10 at 2018-09-06 17:51:39.918
+Rolled a 9 at 2018-09-06 17:51:39.918
+Rolled a 10 at 2018-09-06 17:51:39.918
+Rolled a 11 at 2018-09-06 17:51:39.918
+Rolled a 3 at 2018-09-06 17:51:39.918
+Rolled a 2 at 2018-09-06 17:51:39.918
+Rolled a 8 at 2018-09-06 17:51:39.918
+Rolled a 10 at 2018-09-06 17:51:39.918
+Rolled a 7 at 2018-09-06 17:51:39.919
+***** Crap out! You lose. *****
+
+Sam's balance: 170.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.919
+
+Rolled a 7 at 2018-09-06 17:51:39.919
+***** Natural! You win! *****
+
+Sam's balance: 240.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.919
+
+Rolled a 5 at 2018-09-06 17:51:39.919
+Rolled a 5 at 2018-09-06 17:51:39.919
+***** Roll the point! You win! ***** 
+
+Sam's balance: 310.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.919
+
+Rolled a 9 at 2018-09-06 17:51:39.919
+Rolled a 6 at 2018-09-06 17:51:39.919
+Rolled a 5 at 2018-09-06 17:51:39.919
+Rolled a 5 at 2018-09-06 17:51:39.919
+Rolled a 7 at 2018-09-06 17:51:39.919
+***** Crap out! You lose. *****
+
+Sam's balance: 240.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.919
+
+Rolled a 9 at 2018-09-06 17:51:39.92
+Rolled a 8 at 2018-09-06 17:51:39.92
+Rolled a 8 at 2018-09-06 17:51:39.92
+Rolled a 7 at 2018-09-06 17:51:39.92
+***** Crap out! You lose. *****
+
+Sam's balance: 170.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.92
+
+Rolled a 5 at 2018-09-06 17:51:39.92
+Rolled a 8 at 2018-09-06 17:51:39.92
+Rolled a 4 at 2018-09-06 17:51:39.92
+Rolled a 8 at 2018-09-06 17:51:39.92
+Rolled a 7 at 2018-09-06 17:51:39.92
+***** Crap out! You lose. *****
+
+Sam's balance: 100.0. Playing a new game...
+Sam bets $70.0 at 2018-09-06 17:51:39.921
+
+Rolled a 6 at 2018-09-06 17:51:39.921
+Rolled a 7 at 2018-09-06 17:51:39.921
+***** Crap out! You lose. *****
+
+Sam's balance: 30.0. Playing a new game...
+Sam bets $30.0 at 2018-09-06 17:51:39.921
+
+Rolled a 8 at 2018-09-06 17:51:39.921
+Rolled a 6 at 2018-09-06 17:51:39.921
+Rolled a 11 at 2018-09-06 17:51:39.921
+Rolled a 5 at 2018-09-06 17:51:39.921
+Rolled a 9 at 2018-09-06 17:51:39.921
+Rolled a 6 at 2018-09-06 17:51:39.922
+Rolled a 7 at 2018-09-06 17:51:39.922
+***** Crap out! You lose. *****
+Sam's balance: 0.0
+
+
+* * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * SIMULATION STATISTICS * * * * * *
+* * * * * * * * * * * * * * * * * * * * * * *
+Games played: 18
+Games won: 8
+Games lost: 10
+Maximum Rolls in a single game: 14
+Natural Count: 4
+Craps Count: 1
+Maximum Winning Streak: 3
+Maximum Losing Streak: 5
+Maximum balance: 380.0 during game 8
+
+Replay? Enter 'y' or 'n': Y
+
+Welcome to SimCraps! Enter your user name: Sophie
+Hello Sophie!
+Enter the amount of money you will bring to the table: 100
+Enter the bet amount between $1 and $100.0: 60.0
+Sophie bets $60.0 at 2018-09-06 17:51:50.044
+
+Rolled a 10 at 2018-09-06 17:51:50.044
+Rolled a 5 at 2018-09-06 17:51:50.044
+Rolled a 5 at 2018-09-06 17:51:50.045
+Rolled a 7 at 2018-09-06 17:51:50.045
+***** Crap out! You lose. *****
+
+Sophie's balance: 40.0. Playing a new game...
+Sophie bets $40.0 at 2018-09-06 17:51:50.045
+
+Rolled a 9 at 2018-09-06 17:51:50.045
+Rolled a 6 at 2018-09-06 17:51:50.045
+Rolled a 6 at 2018-09-06 17:51:50.045
+Rolled a 10 at 2018-09-06 17:51:50.045
+Rolled a 7 at 2018-09-06 17:51:50.045
+***** Crap out! You lose. *****
+Sophie's balance: 0.0
+
+
+* * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * SIMULATION STATISTICS * * * * * *
+* * * * * * * * * * * * * * * * * * * * * * *
+Games played: 2
+Games won: 0
+Games lost: 2
+Maximum Rolls in a single game: 5
+Natural Count: 0
+Craps Count: 0
+Maximum Winning Streak: 0
+Maximum Losing Streak: 2
+Maximum balance: 100.0 during game 0
+
+Replay? Enter 'y' or 'n': n
+
+The game is terminated.
